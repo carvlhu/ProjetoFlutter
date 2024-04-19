@@ -1,5 +1,6 @@
 import 'package:aplication_one/view/page.dart';
 import 'package:aplication_one/view/ricky_page.dart';
+import 'package:aplication_one/view/widgets/newScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
